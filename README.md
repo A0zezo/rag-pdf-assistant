@@ -3,7 +3,7 @@
 Ask questions over your PDFs and get answers with page-level citations.
 Hybrid retrieval (dense FAISS vectors + BM25 keyword search, fused with Reciprocal Rank Fusion), a FastAPI backend, and a small chat web UI. Runs fully local on CPU - no API key required.
 
-![Chat UI answering a question with citations](docs/screenshots/app.png)
+![Chat UI answering a question with citations](https://github.com/user-attachments/assets/b843a6fb-0a67-4b62-83eb-a07105556d92)
 
 ## Features
 
@@ -80,7 +80,7 @@ docker compose up --build
 }
 ```
 
-![Swagger API docs](docs/screenshots/api-docs.png)
+![Swagger API docs](https://github.com/user-attachments/assets/6b9d34ee-5e84-4382-af36-b15437cb4e4e)
 
 ## Demo (real output)
 
